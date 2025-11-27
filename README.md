@@ -1,5 +1,6 @@
 # Register
 a offline school register
+> NOT INTENDED FOR A SCHOOL EVIRRONMENT
 
 ---
 ## Instructions
@@ -14,7 +15,7 @@ Download the release.zip from the releases section and run the Admins.exe file, 
 ]
 
 ```
-You can shange the username a password to anything you want.
+> You can Change the username a password to anything you want.
 
 After this, reopen the Admins.exe and login with your account.
 ### Making a teacher account
