@@ -57,4 +57,9 @@ Select your class and use the dropdown to select p (present) a (absent ) and l (
 
 ## Features
 
+Adding absenses to a student on all their classes before registers (admin panel)
+
+A chat with teachers  (Admin panel and teacher client)
+
+
 
